@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nam-htran
-- 👀 I’m interested in Artifical Intelligent
-- 🌱 I’m currently learning Artifical Intelligent
+- 👀 I’m interested in Artifical Intelligence
+- 🌱 I’m currently learning Artifical Intelligence
 
 <!---
 nam-htran/nam-htran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
