@@ -1,6 +1,6 @@
 # Hi 👋, I'm Hoang Nam
 
-- 🔭 I'm currently working on **a AI Engineer role, Data Scientist experience and Full-stack Web-Developer**
+- 🔭 I'm currently working on **a AI Engineer role, Data Scientist experience and Full-stack Web Developer**
 
 - 🌱 I'm currently learning **AI Engineer**
 
