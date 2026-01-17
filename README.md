@@ -1,7 +1,5 @@
 # Hi 👋, I'm Hoang Nam
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nam-htran&label=Profile views&color=0e75b6&style=flat" alt="nam-htran" /> </p>
-
 - 🔭 I'm currently working on **a AI Engineer role, Data Scientist experience and Full-stack Web-Developer**
 
 - 🌱 I'm currently learning **AI Engineer**
