@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **hnamt04@gmail.com**
 
-- ⚡ Fun fact **Attracted by plane**
+- ⚡ Fun fact **Attracted by Plane**
 
 ![photo-1579750481098-8b3a62c9b85d](https://github.com/user-attachments/assets/a018961f-126f-4f92-bdad-69e23a1f5d4a)
 
