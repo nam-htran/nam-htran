@@ -2,7 +2,7 @@
 
 - 🔭 I'm currently working on **a AI Engineer and Data Scientist** position
 
-- 🌱 I'm currently learning **AI Engineer**
+- 🌱 I'm currently learning **AI Engineer** at **FPT Univeristy**
 
 - 📫 How to reach me **hnamt04@gmail.com**
 
