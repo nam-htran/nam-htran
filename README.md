@@ -6,10 +6,6 @@
 
 - 📫 How to reach me **hnamt04@gmail.com**
 
-- ⚡ Fun fact **aviation enthusiast**
-
-![photo-1579750481098-8b3a62c9b85d](https://github.com/user-attachments/assets/a018961f-126f-4f92-bdad-69e23a1f5d4a)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/nam-htran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="nam-htran" height="30" width="40" /></a>
